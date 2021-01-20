@@ -1,0 +1,20 @@
+body {
+  background: url(../img/cases_bg.JPG) no-repeat center center fixed;
+  background-size: cover;
+  background-color: #47606b; }
+
+.container {
+  max-width: 1230px; }
+  .container h1, .container h2 {
+    font-family: "Balsamiq Sans", cursive;
+    margin-top: 10px;
+    text-align: center; }
+
+.card {
+  margin: 30px;
+  max-height: 100px;
+  display: inline-block; }
+  .card img {
+    opacity: 80%; }
+
+/*# sourceMappingURL=cases.css.map */
