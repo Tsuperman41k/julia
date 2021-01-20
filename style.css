@@ -37,4 +37,9 @@ body {
   .cases img {
     max-width: 100px; }
 
+.cases img,
+.telegram img,
+.inst img {
+  max-width: 20px; }
+
 /*# sourceMappingURL=style.css.map */
